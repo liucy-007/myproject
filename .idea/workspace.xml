@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d57fd9b0-8e75-4664-b0c4-685526da7a8d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/EasyCodeConfig/review-address.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/myProgect_war.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/myProgect_war_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c7937071-9735-48bc-bfe1-bb1c1b8f7a17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_57.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_10_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_liferay_org_apache_commons_fileupload_1_2_2_LIFERAY_PATCHED_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_3_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_11.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_coobird_thumbnailator_0_4_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_trove4j_core_3_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_27.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_3_11_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_atteo_evo_inflector_1_2_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_18_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_3_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_generator_mybatis_generator_core_1_3_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_5_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_2_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_29.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_aop_2_1_4_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_rest_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_2_1_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_3_1_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_3_1_12_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_25_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_core_2_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_11_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xmlunit_xmlunit_core_2_6_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/myProgect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/src/main/resources/mapper/AddressDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myProgect.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/SpringBootApplicationRunner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/controller/AddressController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/controller/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/dao/AddressDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/dao/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/demo/MysqlDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/entity/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/service/AddressService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/service/impl/AddressServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/util/CommonUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/util/ConfiguresUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/inspur/db/util/LdirectorUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inspur/mapper/AddressMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/inspur/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/myProgect.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/SpringBootApplicationRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/dao/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/demo/MysqlDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/entity/User$UserBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/util/CommonUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/util/ConfiguresUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/db/util/LdirectorUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/inspur/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect.war" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/SpringBootApplicationRunner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/dao/UserMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/demo/MysqlDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/entity/User$UserBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/entity/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/service/UserServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/util/CommonUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/util/ConfiguresUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/db/util/LdirectorUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/com/inspur/mapper/UserMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/classes/generatorConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/HikariCP-3.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/aspectjweaver-1.9.4.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/classmate-1.4.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/commons-codec-1.11.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/commons-io-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/core-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/druid-1.1.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/druid-spring-boot-starter-1.1.16.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/evo-inflector-1.2.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/fastjson-1.2.57.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/hibernate-validator-6.0.18.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/httpclient-4.5.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/httpcore-4.4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/jackson-annotations-2.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/jackson-core-2.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/jackson-databind-2.9.10.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/jackson-datatype-jdk8-2.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/jackson-datatype-jsr310-2.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/jackson-module-parameter-names-2.9.10.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/javax.annotation-api-1.3.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/jboss-logging-3.3.3.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/jul-to-slf4j-1.7.29.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/log4j-api-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/log4j-to-slf4j-2.11.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/logback-classic-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/logback-core-1.2.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/mybatis-3.5.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/mybatis-generator-core-1.3.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/mybatis-spring-2.0.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/mybatis-spring-boot-autoconfigure-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/mybatis-spring-boot-starter-2.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/org.apache.commons.fileupload-1.2.2.LIFERAY-PATCHED-1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/slf4j-api-1.7.29.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/snakeyaml-1.23.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-aop-5.1.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-beans-5.1.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-boot-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-boot-autoconfigure-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-boot-starter-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-boot-starter-aop-2.1.4.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-boot-starter-data-rest-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-boot-starter-jdbc-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-boot-starter-json-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-boot-starter-logging-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-boot-starter-tomcat-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-boot-starter-web-2.1.10.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-context-5.1.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-core-5.1.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-data-commons-2.1.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-data-rest-core-3.1.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-data-rest-webmvc-3.1.12.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-expression-5.1.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-hateoas-0.25.2.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-jcl-5.1.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-jdbc-5.1.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-plugin-core-1.2.0.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-session-core-2.1.9.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-tx-5.1.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-web-5.1.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/spring-webmvc-5.1.11.RELEASE.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/thumbnailator-0.4.8.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/tomcat-embed-core-9.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/tomcat-embed-el-9.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/tomcat-embed-websocket-9.0.27.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/lib/validation-api-2.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/myProgect/index.jsp" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="review@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="review@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="review@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="review: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/controller/Test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="XML file" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>controller</find>
+      <find>service</find>
+      <find>AddressDao</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>F:\code\myProgect\src\main\resources\com\inspur\mapper</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/SpringBootApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/entity/UserExample.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/SpringBootApplicationRunner.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/util/CommonUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/controller/Useraa.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/generatorConfig.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/dao/UserMapper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/inspur/mapper/UserMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/demo/MysqlDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/entity/ldirectordConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/dao/LdirectorParameters.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/entity/LdirectordConfigBean.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/controller/ldirectorConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/controller/LdirectorConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/util/Layer4LbServiceLvsDr.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/util/LdirectorUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/util/ConfiguresUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/com/inspur/mapper/AddressMapper.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/entity/Address.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/inspur/db/controller/Test.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="E:\softWare\IntelliJ IDEA 2018.3\plugins\maven\lib\maven3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1874" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="impl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="myProgect" type="b2602c69:ProjectViewProjectNode" />
+              <item name="myProgect" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1586316107250" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../slb-agent" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="com.sjhy.plugin.ui.TemplateSettingPanel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.inspur.db.util" />
+      <recent name="com.inspur.db.dao" />
+      <recent name="com.inspur.db.entity" />
+      <recent name="com.inspur.db.controller" />
+      <recent name="com.inspur.db.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\code\myProgect\src\main\resources\com\inspur\mapper" />
+      <recent name="F:\code\myProgect\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBootApplicationRunner">
+    <configuration name="Aa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inspur.db.entity.Aa" />
+      <module name="myProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inspur.db.entity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MysqlDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inspur.db.demo.MysqlDemo" />
+      <module name="myProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inspur.db.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inspur.db.controller.Test" />
+      <module name="myProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inspur.db.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ldirectorConfig" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.inspur.db.controller.ldirectorConfig" />
+      <module name="myProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inspur.db.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBootApplicationRunner" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="myProgect" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.inspur.db.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.inspur.db.SpringBootApplicationRunner" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.SpringBootApplicationRunner" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ldirectorConfig" />
+        <item itemvalue="Application.MysqlDemo" />
+        <item itemvalue="Application.Aa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d57fd9b0-8e75-4664-b0c4-685526da7a8d" name="Default Changelist" comment="" />
+      <created>1583131469100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583131469100</updated>
+      <workItem from="1583131479602" duration="2469000" />
+      <workItem from="1583727285429" duration="9697000" />
+      <workItem from="1583744555123" duration="9194000" />
+      <workItem from="1583807879838" duration="16985000" />
+      <workItem from="1583888890578" duration="13555000" />
+      <workItem from="1584320593162" duration="857000" />
+      <workItem from="1584327172265" duration="3856000" />
+      <workItem from="1584429595329" duration="602000" />
+      <workItem from="1584667369429" duration="1222000" />
+      <workItem from="1585038626961" duration="77086000" />
+      <workItem from="1585704339233" duration="5036000" />
+      <workItem from="1585880232586" duration="2414000" />
+      <workItem from="1585882712340" duration="149000" />
+      <workItem from="1585883264895" duration="647000" />
+      <workItem from="1585883929222" duration="599000" />
+      <workItem from="1585884534481" duration="7608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="151976000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20893054" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.44340602" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6801661" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32917964" />
+      <window_info anchor="bottom" id="SonarLint" order="12" weight="0.32880434" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24958813" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.112458654" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3294893" />
+      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.09316428" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23311368" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.42990655" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6801661" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32917964" />
+      <window_info anchor="bottom" id="SonarLint" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="15" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24958813" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" visible="true" weight="0.24052718" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="SciView" order="6" weight="0.3294893" />
+      <window_info anchor="right" id="Database" order="7" weight="0.28253707" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/aa.xml" />
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/entity/UserExample.java" />
+    <entry file="jar://F:/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/EmbeddedDatabaseConnection.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/mybatis/spring/boot/mybatis-spring-boot-autoconfigure/1.3.2/mybatis-spring-boot-autoconfigure-1.3.2.jar!/org/mybatis/spring/boot/autoconfigure/MybatisAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="26" column="55" selection-start-line="26" selection-start-column="55" selection-end-line="26" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/boot/spring-boot-autoconfigure/1.5.6.RELEASE/spring-boot-autoconfigure-1.5.6.RELEASE.jar!/org/springframework/boot/autoconfigure/jdbc/DataSourceConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="61" column="54" selection-start-line="61" selection-start-column="54" selection-end-line="61" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/mysql/mysql-connector-java/5.1.46/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/PreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="435" selection-start-line="435" selection-end-line="435" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/util/CommonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="49" column="25" selection-start-line="49" selection-start-column="25" selection-end-line="49" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/controller/Useraa.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/SpringBootApplicationRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE-sources.jar!/org/springframework/http/HttpStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="65" column="4" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://F:/repository/org/springframework/spring-web/5.1.11.RELEASE/spring-web-5.1.11.RELEASE-sources.jar!/org/springframework/http/ResponseEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="90" column="11" selection-start-line="90" selection-start-column="11" selection-end-line="90" selection-end-column="11" />
+          <folding>
+            <element signature="e#3130#3131#0" expanded="true" />
+            <element signature="e#3161#3162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/generatorConfig.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/demo/MysqlDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="388" selection-start-line="388" selection-end-line="388" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/dao/LdirectorParameters.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/dao/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/controller/LdirectorConfig.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/entity/LdirectordConfigBean.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/util/Layer4LbServiceLvsDr.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/util/ConfiguresUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="15" column="53" lean-forward="true" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/util/LdirectorUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="673">
+          <caret line="393" lean-forward="true" selection-start-line="393" selection-end-line="393" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aa1131e7-c877-4f7e-979c-d43a46234a35/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/4efa9846-9552-43cb-a925-7b1fca93ff41/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myProgect.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="31" column="55" selection-start-line="31" selection-start-column="55" selection-end-line="31" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/AddressDefault.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1176">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c7937071-9735-48bc-bfe1-bb1c1b8f7a17/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/inspur/mapper/UserMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="49" selection-start-line="2" selection-start-column="49" selection-end-line="2" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/com/inspur/mapper/AddressMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="888">
+          <caret line="37" column="42" selection-start-line="37" selection-start-column="42" selection-end-line="37" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="33" column="3" selection-start-line="33" selection-start-column="3" selection-end-line="33" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/entity/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/dao/AddressDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/service/AddressService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/service/impl/AddressServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/controller/AddressController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="19" column="7" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/inspur/db/controller/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>myProgect:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.7 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>myProgect</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

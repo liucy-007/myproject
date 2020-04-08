@@ -1,0 +1,23 @@
+# Tomcat
+server:
+  tomcat:
+    uri-encoding: UTF-8
+  port: 8088
+
+
+spring:
+  datasource:
+    #type: org.apache.commons.dbcp.BasicDataSource
+    continue-on-error: true
+    type: com.alibaba.druid.pool.DruidDataSource
+    driver-class-name: com.mysql.jdbc.Driver
+    druid:
+      url: jdbc:mysql://127.0.0.1:3306/review?allowMultiQueries=true&useUnicode=true&characterEncoding=UTF-8
+      username: root
+      password: root
+  jackson:
+    date-format: yyyy-MM-dd
+    time-zone: GMT+8
+mybatis:
+  mapper-locations: classpath:com/inspur/mapper/*.xml
+  type-aliases-package: com.inspur.db.entity

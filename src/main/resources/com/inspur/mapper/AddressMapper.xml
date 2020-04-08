@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.inspur.mapper.dao.AddressDao">
+
+    <resultMap type="com.inspur.mapper.entity.Address" id="AddressMap">
+        <result property="id" column="id" jdbcType="INTEGER"/>
+        <result property="province" column="province" jdbcType="VARCHAR"/>
+        <result property="city" column="city" jdbcType="VARCHAR"/>
+        <result property="area" column="area" jdbcType="VARCHAR"/>
+    </resultMap>
+
+    <!--查询单个-->
+    <select id="queryById" resultMap="AddressMap">
+        select
+            id, province, city, area
+        from review.address
+        where id = #{id}
+    </select>
+
+    <!--查询指定行数据-->
+    <select id="queryAllByLimit" resultMap="AddressMap">
+        select
+            id, province, city, area
+        from review.address
+                 limit #{offset}, #{limit}
+    </select>
+
+    <!--通过实体作为筛选条件查询-->
+    <select id="queryAll" resultMap="AddressMap">
+        select
+        id, province, city, area
+        from review.address
+        <where>
+            <if test="id != null">
+                and id = #{id}
+            </if>
+            <if test="province != null and province != ''">
+                and province = #{province}
+            </if>
+            <if test="city != null and city != ''">
+                and city = #{city}
+            </if>
+            <if test="area != null and area != ''">
+                and area = #{area}
+            </if>
+        </where>
+    </select>
+
+    <!--新增所有列-->
+    <insert id="insert" keyProperty="id" useGeneratedKeys="true">
+        insert into review.address(province, city, area)
+        values (#{province}, #{city}, #{area})
+    </insert>
+
+    <!--通过主键修改数据-->
+    <update id="update">
+        update review.address
+        <set>
+            <if test="province != null and province != ''">
+                province = #{province},
+            </if>
+            <if test="city != null and city != ''">
+                city = #{city},
+            </if>
+            <if test="area != null and area != ''">
+                area = #{area},
+            </if>
+        </set>
+        where id = #{id}
+    </update>
+
+    <!--通过主键删除-->
+    <delete id="deleteById">
+        delete from review.address where id = #{id}
+    </delete>
+
+</mapper>
